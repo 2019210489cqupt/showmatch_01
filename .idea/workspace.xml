@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91ce2a47-2fac-4d1f-8887-6fe70e85ae46" name="Default Changelist" comment="SHOW ALL SCHOOL MATCH_first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/showmatch_01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sasm/repository/UserRepository.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sasm/repository/UserRepository.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +21,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\念曌 a sunshine girl\Desktop\ForestBlog-master\hh\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -40,9 +36,16 @@
         <option name="userSettingsFile" value="D:\apache-maven\setting.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1jQ9dQJxSaAAYvlsJFjLIoGJ3cu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -50,6 +53,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -87,8 +91,17 @@
       <option name="presentableId" value="Default" />
       <updated>1603725534610</updated>
       <workItem from="1603725537910" duration="2220000" />
-      <workItem from="1603898592769" duration="1879000" />
+      <workItem from="1603898592769" duration="2413000" />
+      <workItem from="1604212821734" duration="2262000" />
     </task>
+    <task id="LOCAL-00001" summary="SHOW ALL SCHOOL MATCH_first commit">
+      <created>1603900738639</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603900738639</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,14 +112,23 @@
     <option name="LAST_COMMIT_MESSAGE" value="SHOW ALL SCHOOL MATCH_first commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="347" y="10" key="CommitChangelistDialog2" timestamp="1603900704564">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604214795098">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="347" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603900704564" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1604214795098" />
+    <state x="347" y="10" key="CommitChangelistDialog2" timestamp="1604214658821">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="10" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1604214658821" />
+    <state x="347" y="10" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603900737406" />
     <state x="549" y="156" key="FileChooserDialogImpl" timestamp="1603900503342">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603900503342" />
+    <state x="625" y="308" width="286" height="277" key="Github.ShareDialog" timestamp="1603901051410">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="625" y="308" width="286" height="277" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1603901051410" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1603727769381">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -123,10 +145,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603727769381" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1603900474067">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1603901007478">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603900474067" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603901007478" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1604212822028">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1604212822028" />
     <state x="449" y="104" key="spring file set editor" timestamp="1603899888655">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
